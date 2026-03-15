@@ -1,7 +1,7 @@
 
 # **AI-Powered Coastal Hazard Detection & Victim Tracking System**
 
-An advanced maritime safety solution designed to mitigate risks in coastal recreation areas. This project leverages the state-of-the-art **YOLOv12** architecture to provide real-time monitoring, hazard alerts, and automated victim tracking for marine environments.
+An advanced maritime safety solution designed to mitigate risks in coastal recreation areas. This project leverages the state-of-the-art **YOLOv12** (https://github.com/sunsmarterjie/yolov12) architecture to provide real-time monitoring, hazard alerts, and automated victim tracking for marine environments.
 
 ---
 
