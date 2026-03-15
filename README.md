@@ -7,14 +7,14 @@ An advanced maritime safety solution designed to mitigate risks in coastal recre
 
 ## **Overview**
 
-Traditional coastal safety relies heavily on manual patrols, which are often limited by visibility and human resources. This system fills that gap by providing 24/7 automated surveillance, specifically targeting high-risk phenomena: **Rogue Waves (Crazy Flat Waves)** and **Rip Currents**.
+Traditional coastal safety relies heavily on manual patrols, which are often limited by visibility and human resources. This system fills that gap by providing 24/7 automated surveillance, specifically targeting high-risk phenomena: **Coastal Freak Waves** and **Rip Currents**.
 
 By integrating professional maritime knowledge with deep learning, the system establishes a comprehensive safety mechanism from prevention to rescue.
 
 ## **Core Features**
 
 * **Shoreline Pedestrian Detection**: Real-time monitoring of visitors on the beach to prevent entry into high-risk zones.
-* **Rogue Wave (CFW) Alerting**: Immediate detection of sudden, large-scale wave threats.
+* **Coastal Freak Waves Alerting**: Immediate detection of sudden, large-scale wave threats.
 * **Rip Current Identification**: Visual analysis of water patterns to identify dangerous seaward currents.
 * **Victim Localization**: Automatic pinpointing of individuals in distress.
 * **Dynamic Victim Tracking**: Continuous tracking of a victim's movement to assist rescue teams in high-stakes environments.
@@ -40,9 +40,9 @@ pip install -r requirements.txt
 
 You can launch specific monitoring modules by running the following detection scripts:
 
-#### **1. Rogue Wave (CFW) Detection & Alert**
+#### **1. Coastal Freak Waves Detection & Alert**
 
-To start real-time monitoring for rogue waves:
+To start real-time monitoring for freak waves:
 
 ```bash
 python detect_cfw_alert.py --source 0 --weights yolov12_cfw.pt
